@@ -16,7 +16,7 @@ This parser is developed for downloading free chapters from https://shonenjumppl
 ## Installation
 1. You need copy repository to your machine by ```git clone``` command
 2. After you need execute ```poetry install``` command since the project uses poetry as a package manager
-3. Next you can use default test screept like 'oshinoko' by entering command ```poetry run oshinoko``` or manualy edit test.py from test folder (Also you can edit pyproject.toml and create oshinoko-like function for new ```poetry run``` command)
+3. Next you can use default test script like 'oshinoko' by entering command ```poetry run oshinoko``` or manualy edit test.py from test folder (Also you can edit pyproject.toml and create oshinoko-like function for new ```poetry run``` command)
 
 ## Future of the project
 In the future it will be modified for improving indexing process (indexing stage executes parallel with rendering to pdf but a lot of time are wasted by awaiting request of json files)
