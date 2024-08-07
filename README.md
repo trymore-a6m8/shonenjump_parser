@@ -1,6 +1,6 @@
 # ShonenJumpPlus parser
-![Static Badge](https://img.shields.io/badge/build-passing-green)
-![Static Badge](https://img.shields.io/badge/License-Apache_2.0-blue)
+![Static Badge](https://img.shields.io/badge/build-passing-blue)
+![Static Badge](https://img.shields.io/badge/-Apache--2.0_license-red)
 ## Dependencies
 ![Static Badge](https://img.shields.io/badge/Python-3.12.4-green)
 ![Static Badge](https://img.shields.io/badge/Poetry-1.8.3-blue)
