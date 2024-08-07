@@ -1,1 +1,1 @@
-from .shonenjumpparser import *
+from .shonenjumpparser import shonenjump_parser
