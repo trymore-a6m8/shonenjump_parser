@@ -1,4 +1,5 @@
 # ShonenJumpPlus parser
+![Static Badge](https://img.shields.io/badge/Version-1.0.0-green)
 ![Static Badge](https://img.shields.io/badge/build-passing-blue)
 ![Static Badge](https://img.shields.io/badge/-Apache--2.0_license-red)
 ## Dependencies
@@ -18,4 +19,4 @@ This parser is developed for downloading free chapters from https://shonenjumppl
 3. Next you can use default test screept like 'oshinoko' by entering command ```poetry run oshinoko``` or manualy edit test.py from test folder (Also you can edit pyproject.toml and create oshinoko-like function for new ```poetry run``` command)
 
 ## Future of the project
-In the future it's possible to be modified for improving indexing process (indexing stage executes parallel with rendering to pdf but a lot of time are wasted by awaiting request of json files)
+In the future it will possible to be modified for improving indexing process (indexing stage executes parallel with rendering to pdf but a lot of time are wasted by awaiting request of json files)
